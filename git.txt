@@ -1,0 +1,7 @@
+commit commond like this  => [persent, Imperative]
+gave order to code
+
+.gitkeep => empty floder which git will be ignored
+
+git have the kind of database system where tracking files.
+which is key value pairs and everything is object in git
